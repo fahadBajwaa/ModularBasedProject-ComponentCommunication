@@ -1,3 +1,5 @@
+// Updated Naming Convention 
+
 import { Component } from '@angular/core';
 import { MessageComposerComponent } from './message-composer/message-composer.component';
 import { MessageViewerComponent } from './message-viewer/message-viewer.component';
