@@ -1,5 +1,7 @@
+// Updated Naming Convention
+
 import { Component } from '@angular/core';
-import { SharedService } from '../services/shared.service';
+import { SharedService } from '../services/message.service';
 
 @Component({
   selector: 'app-message-viewer',
